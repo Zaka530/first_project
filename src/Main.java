@@ -16,6 +16,16 @@ public class Main {
         arrayList.remove(0);
         System.out.println(arrayList);
 
+
+        System.out.println("ИДИ НАХУЙ");
+
+
+        ////ffgfdhgdfherrefgi
+
+
+
+
+
     }
 }
 
